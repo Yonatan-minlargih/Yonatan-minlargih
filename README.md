@@ -1,4 +1,4 @@
-Looking to collaborate on a variety of projects
+Looking to collaborate on a variety of projects,
 📫 How to reach me -- use yonatan.minlargih@gmail.com 
 
 <!---
