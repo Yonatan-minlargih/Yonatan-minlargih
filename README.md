@@ -3,15 +3,6 @@
 Yonatan-minlargih/Yonatan-minlargih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<script src="https://cdn.tailwindcss.com"></script>
-<style>
-  .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-    justify-items: center;
-  }
-</style>
 # 👋 Hi, I'm Yonatan Ayisheshim!
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative solutions with code. I thrive on building scalable web applications and exploring cutting-edge technologies to solve real-world problems. Let's create something amazing together! 🚀
@@ -62,13 +53,11 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative
 ---
 
 ## 📊 GitHub Stats
- <div class="stats-grid">
+ <div align="center" style="display: flex; justify-content: center;">
       <!-- GitHub Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Yonatan-minlargih&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Yonatan's GitHub Stats" class="w-full h-auto rounded-lg shadow-md" loading="lazy">
+      <img src="https://github-readme-stats.vercel.app/api?username=Yonatan-minlargih&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Yonatan's GitHub Stats">
       <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatan-minlargih&layout=compact&theme=dracula&hide_border=true" alt="Yonatan's Top Languages" class="w-full h-auto rounded-lg shadow-md" loading="lazy">
-      <!-- GitHub Streak Stats -->
-      <img src="https://streak-stats.demolab.com/?user=Yonatan-minlargih&theme=dracula&hide_border=true" alt="Yonatan's GitHub Streak" class="w-full h-auto rounded-lg shadow-md" loading="lazy">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatan-minlargih&layout=compact&theme=dracula&hide_border=true" alt="Yonatan's Top Languages" loading="lazy">
     </div>
 
 ---
