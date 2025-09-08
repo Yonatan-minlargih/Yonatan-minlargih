@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative
 - 🌐 Visit my [portfolio](https://www.yonatanayisheshim.vercel.app) or connect on [LinkedIn](https://www.linkedin.com/in/yonatan-minlargih-95358b25a)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="Coding GIF" width="400" />
 </div>
 
 ---
@@ -54,8 +54,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative
 
 ## 📊 GitHub Stats
  <div align="center" style="display: flex; justify-content: center;">
-      <!-- GitHub Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Yonatan-minlargih&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Yonatan's GitHub Stats">
       <!-- Top Languages Card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatan-minlargih&layout=compact&theme=dracula&hide_border=true" alt="Yonatan's Top Languages" loading="lazy">
     </div>
