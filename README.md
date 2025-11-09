@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative 
 
 ---
 
-## 🌟 About Me
+## 💭 About Me
 - Currently working on **full-stack web development** with a focus on scalable applications
 - Learning **design patterns** and **software architecture**
 - Passionate about **open-source contributions**, **clean code**, and **user-centric design**
