@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
@@ -64,9 +65,6 @@ Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative 
 ---
 
 ## 🏆 Contributions
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatan-minlargih&theme=dracula" alt="Contribution Streak" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yonatan-minlargih&color=brightgreen" alt="Profile views" />
