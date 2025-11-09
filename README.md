@@ -3,29 +3,25 @@
 Yonatan-minlargih/Yonatan-minlargih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Yonatan Ayisheshim!
+# Hello World!, I'm Yonatan Ayisheshim.
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative solutions with code. I thrive on building scalable web applications and exploring cutting-edge technologies to solve real-world problems. Let's create something amazing together! 🚀
+Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative solutions with code. I thrive on building robust web applications and exploring cutting-edge technologies to solve real-world problems.
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **full-stack web development** with a focus on scalable applications
-- 🌱 Learning **design patterns** and **software architecture**
-- 💡 Passionate about **open-source contributions**, **clean code**, and **user-centric design**
-- 📫 Reach me at: [yonatan.minlargih@gmail.com](mailto:yonatan.minlargih@gmail.com)
-- 🌐 Visit my [portfolio](https://www.yonatanayisheshim.vercel.app) or connect on [LinkedIn](https://www.linkedin.com/in/yonatan-minlargih-95358b25a)
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XR3rTO1O_RM69jFDcez7cw.gif" alt="Coding GIF" width="400" />
-</div>
+- Currently working on **full-stack web development** with a focus on scalable applications
+- Learning **design patterns** and **software architecture**
+- Passionate about **open-source contributions**, **clean code**, and **user-centric design**
+- Reach me at: [yonatan.minlargih@gmail.com](mailto:yonatan.minlargih@gmail.com)
+- Connect on [LinkedIn](https://www.linkedin.com/in/yonatan-minlargih-95358b25a)
 
 ---
 
 ## 🛠️ Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -48,8 +44,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
@@ -65,7 +59,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** crafting innovative
 <div align="center">
   <a href="mailto:yonatan.minlargih@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yonatan-minlargih-95358b25a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.yonatanayisheshim.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-FF6F61?style=flat&logo=vercel&logoColor=white" /></a>
 </div>
 
 ---
