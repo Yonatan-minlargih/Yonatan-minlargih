@@ -53,6 +53,9 @@ Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative 
       <!-- Top Languages Card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatan-minlargih&layout=compact&theme=dracula&hide_border=true" alt="Yonatan's Top Languages" loading="lazy">
     </div>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yonatan-minlargih&color=brightgreen" alt="Profile views" />
+</div>
 
 ---
 
@@ -60,12 +63,4 @@ Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative 
 <div align="center">
   <a href="mailto:yonatan.minlargih@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yonatan-minlargih-95358b25a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</div>
-
----
-
-## 🏆 Contributions
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yonatan-minlargih&color=brightgreen" alt="Profile views" />
 </div>
