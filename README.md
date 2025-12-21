@@ -9,7 +9,7 @@ I'm a curious **Software Engineer** delivering innovative solutions with code. I
 
 ---
 
-## 💭 About Me
+## About Me
 - Currently working on **full-stack web development** with a focus on scalable applications
 - Learning **design patterns** and **software architecture**
 - Passionate about **open-source contributions**, **clean code**, and **user-centric design**
@@ -18,7 +18,7 @@ I'm a curious **Software Engineer** delivering innovative solutions with code. I
 
 ---
 
-## 🛠️ Skills
+## Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -48,7 +48,7 @@ I'm a curious **Software Engineer** delivering innovative solutions with code. I
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
  <div align="center" style="display: flex; justify-content: center;">
       <!-- Top Languages Card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatan-minlargih&layout=compact&theme=dracula&hide_border=true" alt="Yonatan's Top Languages" loading="lazy">
@@ -59,7 +59,7 @@ I'm a curious **Software Engineer** delivering innovative solutions with code. I
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 <div align="center">
   <a href="mailto:yonatan.minlargih@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yonatan-minlargih-95358b25a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
