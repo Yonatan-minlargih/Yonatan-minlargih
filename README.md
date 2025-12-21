@@ -3,9 +3,9 @@
 Yonatan-minlargih/Yonatan-minlargih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Привет!, I'm Yonatan Ayisheshim.
+# It's fantastic to see you here, welcome!
 
-Welcome to my GitHub! I'm a curious **Software Engineer** delivering innovative solutions with code. I thrive on building robust web applications and exploring cutting-edge technologies to solve real-world problems.
+I'm a curious **Software Engineer** delivering innovative solutions with code. I thrive on building robust web applications and exploring cutting-edge technologies to solve real-world problems.
 
 ---
 
